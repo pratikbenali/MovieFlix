@@ -1,0 +1,81 @@
+h1{
+    font-size: 3em;
+    font-family: "Open-Sans", Arial, sans-serif
+    margin:0 auto;
+}
+.button1{
+    background-color: blue;
+    font-size: 16px;
+    padding: 32px 32px;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+.button2{
+    background-color: blue;
+    font-size: 16px;
+    padding: 32px 32px;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+.button3{
+    background-color: blue;
+    font-size: 16px;
+    padding: 32px 32px;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+.button4{
+    background-color: blue;
+    font-size: 16px;
+    padding: 32px 32px;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 18px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+div.main{
+    background-image: url(http://www.planwallpaper.com/static/images/wallpaper-hd-3151.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 800px;
+}
+.header{
+    color: white;
+}
+
+
+
+
+

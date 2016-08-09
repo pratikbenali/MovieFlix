@@ -1,0 +1,20 @@
+.button{
+background-color: blue;
+    font-size: 16px;
+    padding: 20px 20px;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+div.main{
+    background-image: url(http://www.planwallpaper.com/static/images/moonlight_night-wallpaper-1366x768.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 800px;
+}
+form{
+    color: white;
+}
+.header{
+    color: white;
+}
